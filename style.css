@@ -1,0 +1,27 @@
+.relative {
+    background-color: red;
+}
+
+#padding-test {
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+
+
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
+.margin-test {
+    border-width: 1px;
+    border-color: blue;
+    border-style: solid;
+    padding-left: 5px;
+    margin: 0 auto;
+    cursor: pointer;
+
+}
